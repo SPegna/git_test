@@ -1,0 +1,2 @@
+Esta es una prueba de mis ejercicios de GitHub usando Terminal.
+Mis primero pasos en programación.
